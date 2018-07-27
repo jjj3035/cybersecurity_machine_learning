@@ -1,4 +1,4 @@
-Big Data Analytics using Machine Learning in Cybersecurity
+*Big Data Analytics using Machine Learning in Cybersecurity*
 
 Project Summary
 The goal of this project is to apply the concept of Big data such as Spark and Machine Learning classifiers models such as Decision Tree, Random Forest, K Nearest Neighbor and Deep Learning/Neural Network in detection/prediction of cyberattack.
